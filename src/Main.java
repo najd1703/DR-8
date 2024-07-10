@@ -18,7 +18,7 @@ public class Main {
         System.out.println(follName1.toUpperCase());
 
         System.out.println("Задача 3");
-     //
+     //.
     String name = "Иванов Семён Семёнович";
     String name2 = name.replace('ё', 'е');
         System.out.println(name2);
